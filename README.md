@@ -1,1 +1,0 @@
-# prograte.github.io
