@@ -2,21 +2,14 @@ body {
   font-family: "lucida Grande";
 }
 
-li {
-  list-style: none;
-}
 
 .header {
   background-color: #dddddd;
-  height: 90px;
+  height: 60px;
 }
 
 .main {
   background-color: #f7f2b4;
-  height: 600px;
+  height: 900px;
 }
 
-.footer {
-  background-color: #ceccf3;
-  height: 270px;
-}
