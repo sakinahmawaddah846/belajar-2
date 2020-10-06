@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "lucida Grande";
 }
 
 li {
@@ -7,12 +7,12 @@ li {
 }
 
 .header {
-  background-color: #f7f2b4;
+  background-color: #dddddd;
   height: 90px;
 }
 
 .main {
-  background-color: #bdf7f1;
+  background-color: #f7f2b4;
   height: 600px;
 }
 
