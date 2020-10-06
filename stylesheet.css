@@ -4,15 +4,15 @@ body {
 
 
 .header {
-  background-color: #9de8ea;
+  background-color: #ff0000;
   height: 90px;
 }
 
 .main {
-  background-color: #f7f2b4;
+  background-color: #9de8ea;
   height: 270px;
 }
 
 .footer {
-  background-color: #ff0000;
+  background-color: #f7f2b4;
   height: 300px;
